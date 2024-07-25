@@ -48,6 +48,3 @@ Contributions are welcome! If you have any improvements or additional mini proje
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
----
-
-Feel free to copy and paste this description into your GitHub repository's README.md file.
